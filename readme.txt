@@ -1,4 +1,4 @@
-ceci est le fichier readmy 
+ceci est le fichier readme
 
 Bien cordialement, 
 

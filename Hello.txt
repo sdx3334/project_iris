@@ -15,6 +15,10 @@
         p {
             color: #333;
         }
+	
+	p {
+	    color #111;
+	}
     </style>
 </head>
 <body>
